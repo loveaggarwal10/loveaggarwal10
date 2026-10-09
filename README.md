@@ -12,7 +12,7 @@
 - 💻 I'm currently strengthening my **Data Structures & Algorithms** in **C++**
 - 🌐 I'm also learning **Web Development**
 - 🐍 Exploring various **Python libraries**
-- 📫 Reach me at: **loveaggarwal008@gmail.com**
+- 📫 Reach me at: **loveaggarwal1008@gmail.com**
 - 🌱 Always learning, always building!
 
 ---
